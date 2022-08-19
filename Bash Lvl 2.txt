@@ -1,0 +1,1 @@
+#Bash lesson 2From over the wire challenge BanditThe password for the next level is stored in a file called - located in the home directoryIn terminal: $ ls        #to list all items de current directory- is shown$ cat -        #will not open the file since – it’s a special characterTo read the file use the following command$ cat ./-Password will appear.

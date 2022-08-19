@@ -1,0 +1,1 @@
+#Bash lesson 11From over the wire challenge BanditThe password for the next level is stored in the file data.txt, which contains base64 encoded dataIn terminal: $ ls # data.txt is shown$ base64 -d data.txtPassword will appear.

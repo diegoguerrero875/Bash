@@ -1,0 +1,1 @@
+#Bash lesson 9From over the wire challenge BanditThe password for the next level is stored in the file data.txt and is the only line of text that occurs only onceIn terminal: $ ls # data.txt is shown$ sort data.txtPassword will appear.

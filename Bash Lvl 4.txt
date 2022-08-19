@@ -1,0 +1,3 @@
+#Bash lesson 4From over the wire challenge BanditThe password for the next level is stored in a hidden file in the inhere directory.In terminal: $ ls        #to list all items de current directoryinhere #shown
+
+$ cd inhere/ # to move to the inhere directory$ ls #nothing shown from this command since the file is hidden$ ls -a #to show everything including hidden files. .. .hidden #shown on screen$ cat .hidden Password will appear.

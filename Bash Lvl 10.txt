@@ -1,0 +1,1 @@
+#Bash lesson 10From over the wire challenge BanditThe password for the next level is stored in the file data.txt in one of the few human-readable strings, preceded by several Ô=Õ characters.In terminal: $ ls # data.txt is shownStrings data.txt | grep -E Ò=+ÓPassword will appear.

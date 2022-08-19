@@ -1,0 +1,1 @@
+#Bash lesson 27From over the wire challenge BanditGood job getting a shell! Now hurry and grab the password for bandit27!In terminal:The pass for this is the one obtain in previous lvlPassword will appear.

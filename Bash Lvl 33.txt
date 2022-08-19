@@ -1,0 +1,1 @@
+#Bash lesson 33From over the wire challenge BanditAfter all this git stuff its time for another escape. Good luck!$ $0$ cat /etc/bandit_pass/bandit33Password will appear.

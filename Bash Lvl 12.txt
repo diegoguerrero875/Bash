@@ -1,0 +1,1 @@
+#Bash lesson 12From over the wire challenge BanditThe password for the next level is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positionsIn terminal: $ ls # data.txt is shown$ data.txt | tr ‘A-Za-z’ ‘N-ZA-Mn-za-m’Password will appear.
